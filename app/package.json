@@ -1,0 +1,21 @@
+{
+    "name": "impulsos",
+    "author": "",
+    "version": "1.0.0",
+    "type": "commonjs",
+    "main": "App.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified.\" && exit 1",
+        "start": "node ."
+    },
+    "dependencies": {
+        "@napi-rs/canvas": "^0.1.68",
+        "axios": "^1.7.9",
+        "cors": "^2.8.5",
+        "discord.js": "^14.17.3",
+        "express": "^4.21.2",
+        "mercadopago": "^2.2.0",
+        "mongoose": "^8.9.4",
+        "qr-code-styling-node": "^1.5.0"
+    }
+}

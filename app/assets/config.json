@@ -1,0 +1,21 @@
+{
+  "webhook": "",
+  "redirectURL": "",
+  "mongo": "",
+  "price_1m": 2.00,
+  "price_3m": 2.00,
+  "price_members_ons": 2.00,
+  "price_members_offs": 2.00,
+  "price_n1m": 2.00,
+  "price_n3m": 2.00,
+  "main_ereemby_api_key": "",
+  "mercadopago_token": "",
+  "main_token": "",
+  "main_client_id": "",
+  "guildId": "",
+  "category_id": "",
+  "channel_log_id": "",
+  "public_log_id": "",
+  "owners": [""],
+  "role_id": ""
+}
